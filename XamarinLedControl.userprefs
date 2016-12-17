@@ -1,9 +1,19 @@
-﻿<Properties StartupConfiguration="{95645515-4ACF-4CF3-81C4-0C9609E707CC}|Default">
-  <MonoDevelop.Ide.Workbench />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties StartupConfiguration="{1EC3F78F-955F-48E5-B951-8F6E018561FD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinLedControl/XamarinLedControl.iOS/Main.cs">
+    <Files>
+      <File FileName="XamarinLedControl/XamarinLedControl/App.xaml.cs" Line="10" Column="6" />
+      <File FileName="XamarinLedControl/XamarinLedControl/App.xaml" Line="1" Column="1" />
+      <File FileName="XamarinLedControl/XamarinLedControl/View/MainLedControl.xaml" Line="1" Column="1" />
+      <File FileName="XamarinLedControl/XamarinLedControl/View/MainLedControl.xaml.cs" Line="1" Column="1" />
+      <File FileName="XamarinLedControl/XamarinLedControl/View/BlankPage.cs" Line="16" Column="3" />
+      <File FileName="XamarinLedControl/XamarinLedControl.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.XamarinLedControl.Droid PreferredExecutionTarget="Android.Android_ARMv7a" />
+  <MonoDevelop.Ide.ItemProperties.XamarinLedControl.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.ItemProperties.XamarinLedControl.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0FA901F6-5062-4419-90BB-72D153F85AFE" />
 </Properties>

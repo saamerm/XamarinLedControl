@@ -7,10 +7,25 @@ namespace XamarinLedControl
     {
         public App()
         {
-            InitializeComponent();
-            //The Root page of your application
-            MainPage = new MainLedControl();
+			//InitializeComponent();
+			MainPage=GetMainPage();
+
+	            //InitializeComponent();
+	            //The Root page of your application
+				//MainPage = new BlankPage();
         }
+		public static Page GetMainPage()
+		{
+			return new ContentPage
+			{
+				Content = new Label
+				{
+					Text = "Hello, Forms!",
+					VerticalOptions = LayoutOptions.CenterAndExpand,
+					HorizontalOptions = LayoutOptions.CenterAndExpand,
+				},
+			};
+		}
 
         protected override void OnStart()
         {
