@@ -1,0 +1,9 @@
+﻿<Properties StartupConfiguration="{95645515-4ACF-4CF3-81C4-0C9609E707CC}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinLedControl.Droid PreferredExecutionTarget="Android.Android_ARMv7a" />
+</Properties>
